@@ -1,0 +1,54 @@
+﻿@using System.Web
+@model DevXuongMoc.Models.Product
+
+@{
+    ViewData["Title"] = "Sản phẩm chi tiết";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="container" style="margin-top:10rem;">
+    <h4>Chi tiết sản phẩm</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.Raw(HttpUtility.HtmlDecode(Model.Description))
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Image)
+        </dt>
+        <dd class="col-sm-10">
+            <img src="@Model.Image" alt="@Model.Title" width="100px" height="100px">
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PriceOld)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PriceOld)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PriceNew)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PriceNew)
+        </dd>
+    </dl>
+</div>
+<div class="text-center">
+    <a asp-controller="Cart" asp-action="Add" asp-route-id="@Model?.Id" class="btn btn-success my-2">
+        <i class="fi fi-bs-shopping-bag"></i> Mua hàng
+    </a>
+    <a asp-action="Index" class="btn btn-info my-2">Back to List</a>
+</div>
+
+
+
