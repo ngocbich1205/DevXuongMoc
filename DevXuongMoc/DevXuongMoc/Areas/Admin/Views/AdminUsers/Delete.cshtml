@@ -1,0 +1,103 @@
+﻿@model DevXuongMoc.Models.AdminUser
+
+@{
+    ViewData["Title"] = "Xóa";
+    Layout = "~/Areas/Admin/Views/Shared/Admin.cshtml";
+}
+
+<h1>Xóa</h1>
+
+<h3>Bạn có chắc muốn xóa không?</h3>
+<div>
+    <h4>Thông tin người dùng Admin</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-6">
+            <dl class="row">
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Account)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Account)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Password)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Password)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.MaNhanSu)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.MaNhanSu)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Name)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Name)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Phone)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Phone)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Email)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Email)
+                </dd>
+            </dl>
+        </div>
+        <div class="col-md-6">
+            <dl class="row">
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Avatar)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Avatar)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.IdPhongBan)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.IdPhongBan)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.NgayTao)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.NgayTao)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.NguoiTao)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.NguoiTao)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.NgayCapNhat)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.NgayCapNhat)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.NguoiCapNhat)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.NguoiCapNhat)
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Xóa" class="btn btn-danger" />
+       
+        <a asp-action="Index" class="btn btn-secondary">Quay lại danh sách</a>
+    </form>
+</div>

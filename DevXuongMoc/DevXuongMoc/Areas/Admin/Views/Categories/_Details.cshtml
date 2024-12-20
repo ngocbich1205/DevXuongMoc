@@ -1,0 +1,72 @@
+﻿@model DevXuongMoc.Models.Category
+
+@{
+    ViewData["Title"] = "Chi Tiết Danh Mục";
+}
+
+<h1 class="text-center my-2">Chi Tiết Danh Mục</h1>
+
+<div>
+    <hr />
+    <div class="row">
+       
+            <dl class="row">
+                <dt class="col-sm-6">Tiêu Đề</dt>
+                <dd class="col-sm-6">@Html.DisplayFor(model => model.Title)</dd>
+                <dt class="col-sm-6">Biểu Tượng</dt>
+                <dd class="col-sm-6">
+                    @* @Html.DisplayFor(model => model.Icon) *@
+                    <img src="@Model.Icon" alt="Icon" class="img-thumbnail" style="max-width: 150px; max-height: 150px;">
+                </dd>
+                <dt class="col-sm-6">Tiêu Đề SEO</dt>
+                <dd class="col-sm-6">@Html.DisplayFor(model => model.MateTitle)</dd>
+                <dt class="col-sm-6">Từ Khóa SEO</dt>
+                <dd class="col-sm-6">@Html.DisplayFor(model => model.MetaKeyword)</dd>
+                <dt class="col-sm-6">Mô Tả SEO</dt>
+                <dd class="col-sm-6">@Html.DisplayFor(model => model.MetaDescription)</dd>
+                <dt class="col-sm-6">Đường Dẫn</dt>
+                <dd class="col-sm-6">@Html.DisplayFor(model => model.Slug)</dd>
+                <dt class="col-sm-6">Thứ Tự</dt>
+                <dd class="col-sm-6">@Html.DisplayFor(model => model.Orders)</dd>
+                <dt class="col-sm-6">ID Cha</dt>
+                <dd class="col-sm-6">@Html.DisplayFor(model => model.Parentid)</dd>
+                <dt class="col-sm-6">Ngày Tạo</dt>
+                <dd class="col-sm-6">@Html.DisplayFor(model => model.CreatedDate)</dd>
+                <dt class="col-sm-6">Ngày Cập Nhật</dt>
+                <dd class="col-sm-6">@Html.DisplayFor(model => model.UpdatedDate)</dd>
+                <dt class="col-sm-6">Người Tạo</dt>
+                <dd class="col-sm-6">@Html.DisplayFor(model => model.AdminCreated)</dd>
+                <dt class="col-sm-6">Người Cập Nhật</dt>
+                <dd class="col-sm-6">@Html.DisplayFor(model => model.AdminUpdated)</dd>
+                <dt class="col-sm-6">Ghi Chú</dt>
+                <dd class="col-sm-6">@Html.DisplayFor(model => model.Notes)</dd>
+                <dt class="col-sm-6">Trạng Thái</dt>
+                <dd class="col-sm-6">@Html.DisplayFor(model => model.StatusText)</dd>
+                <dt class="col-sm-6">Đã Xóa</dt>
+                <dd class="col-sm-6">@Html.DisplayFor(model => model.Isdelete)</dd>
+            </dl>
+       
+    </div>
+</div>
+<div class="text-center">
+    <button class="btn btn-primary ajax-action" data-url="@Url.Action("Edit", new { id = Model.Id })">Sửa</button>
+    <a asp-action="Index" class="btn btn-secondary">Quay Lại Danh Sách</a>
+</div>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".ajax-action").click(function (e) {
+            e.preventDefault();
+
+            // Get the URL from the data attribute
+            var url = $(this).data("url");
+
+            // Load the content into the .click div
+            $(".click").load(url, function (response, status, xhr) {
+                if (status == "error") {
+                    alert("Error: " + xhr.status + " " + xhr.statusText);
+                }
+            });
+        });
+    });
+</script>

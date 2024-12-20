@@ -1,0 +1,1894 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\shared\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\shared\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\views\\shared\\_customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\views\\shared\\_customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\views\\cart\\orderpay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\views\\cart\\orderpay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\views\\new\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\new\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\views\\partners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\views\\partners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\news\\_edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\news\\_edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\views\\news\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\views\\news\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\views\\partner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\partner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\news\\_create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\news\\_create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\news\\_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\news\\_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\news\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\news\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\views\\new\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\new\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\views\\cart\\orderpay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\cart\\orderpay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\products\\_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\products\\_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\controllers\\customermembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\customermembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\views\\cart\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\views\\cart\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\views\\partners\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\views\\partners\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\customeruser\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\customeruser\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\views\\cart\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\cart\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\views\\customermember\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\customermember\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\views\\customermember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\customermember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\controllers\\newcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\newcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\controllers\\partnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\controllers\\partnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\wwwroot\\css\\font.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\wwwroot\\css\\font.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\adminusers\\_delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\adminusers\\_delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\controllers\\bannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\controllers\\bannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\banners\\_delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\banners\\_delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\adminusers\\_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\adminusers\\_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\adminusers\\_edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\adminusers\\_edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\models\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\models\\xuongmoccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\xuongmoccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\adminusers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\adminusers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\products\\_create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\products\\_create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\materials\\_create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\materials\\_create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\categories\\_edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\categories\\_edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\categories\\_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\categories\\_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\categories\\_delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\categories\\_delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\categories\\_create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\categories\\_create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\banners\\_edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\banners\\_edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\banners\\_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\banners\\_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\banners\\_create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\banners\\_create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\adminusers\\_create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\adminusers\\_create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\adminusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\adminusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\adminusers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\adminusers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\banners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\banners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\controllers\\materialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\controllers\\materialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\wwwroot\\dist\\css\\alt\\adminlte.pages.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\wwwroot\\dist\\css\\alt\\adminlte.pages.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\wwwroot\\dist\\css\\alt\\adminlte.light.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\wwwroot\\dist\\css\\alt\\adminlte.light.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\wwwroot\\dist\\css\\alt\\adminlte.core.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\wwwroot\\dist\\css\\alt\\adminlte.core.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\wwwroot\\dist\\css\\adminlte.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\wwwroot\\dist\\css\\adminlte.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\wwwroot\\images\\anhcat\\banner.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\wwwroot\\images\\anhcat\\banner.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|c:\\users\\admin\\documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\k21cnt1-tr\u1EA7n ng\u1ECDc b\u00EDch-2110900007-websiitedevxuongmoc\\devxuongmoc\\devxuongmoc\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C9A6BB-B9CA-40E9-814A-1C75DD98ED04}|DevXuongMoc\\DevXuongMoc.csproj|solutionrelative:devxuongmoc\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "DevXuongMoc\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "DevXuongMoc\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAACMCAAAAAAAAAAASwDYCAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-17T09:16:49.431Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Shared\\Admin.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\Shared\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Shared\\Admin.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\Shared\\Admin.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T06:19:01.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Customer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Shared\\_Customer.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Shared\\_Customer.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Shared\\_Customer.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Shared\\_Customer.cshtml",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAK8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:41:17.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAIMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:40:41.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:41:11.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderPay.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Cart\\OrderPay.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Cart\\OrderPay.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Cart\\OrderPay.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Cart\\OrderPay.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:42:17.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:28:44.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T09:10:30.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Login\\Index.cshtml*",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Login\\Index.cshtml*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:40:44.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:43:07.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwKMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:29:34.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Contacts\\Create.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Contacts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Contacts\\Create.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Contacts\\Create.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:40:30.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T10:26:09.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:25:52.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:31:13.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\Customers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T04:20:18.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:19:14.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\News\\_Edit.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\News\\_Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\News\\_Edit.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\News\\_Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T04:03:54.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\News\\Details.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Views\\News\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\News\\Details.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Views\\News\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T03:49:09.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\News\\_Create.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\News\\_Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\News\\_Create.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\News\\_Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:38:10.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\Aboutus\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Aboutus\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\Aboutus\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Aboutus\\Index.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwFEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T10:18:15.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Partners\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Partners\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Partners\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Partners\\Index.cshtml",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAIwGIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:41:04.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "New.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\New\\New.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\New\\New.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\New\\New.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\New\\New.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T17:11:45.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Views\\News\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Views\\News\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:40:55.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:20:53.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\Partner\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Partner\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\Partner\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Partner\\Index.cshtml",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAIwGkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T10:27:30.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\News\\_Details.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\News\\_Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\News\\_Details.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\News\\_Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T03:39:46.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\News\\Details.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\News\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\News\\Details.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\News\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T03:40:23.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\New\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\New\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\New\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\New\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T10:42:32.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T04:27:26.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:42:36.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T05:56:38.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderPay.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\Cart\\OrderPay.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Cart\\OrderPay.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\Cart\\OrderPay.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Cart\\OrderPay.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T09:11:15.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T04:28:01.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Products\\_Details.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\Products\\_Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Products\\_Details.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\Products\\_Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T01:31:38.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CustomerMemberController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Controllers\\CustomerMemberController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\CustomerMemberController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Controllers\\CustomerMemberController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Controllers\\CustomerMemberController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:02:28.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:02:55.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Controllers\\CartController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAKUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T04:25:41.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Cart\\Orders.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Cart\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Cart\\Orders.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Cart\\Orders.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:42:23.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Controllers\\CartController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAADwv/IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:14:31.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAADwv08AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:40:14.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\Cart.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T04:26:58.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAADgv08AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:29:17.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:00:10.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Customers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:42:32.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Aboutus\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Aboutus\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Aboutus\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Aboutus\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:40:10.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Customers\\Details.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Customers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Customers\\Details.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Customers\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:42:41.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Partners\\Details.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Partners\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Partners\\Details.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Partners\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:42:59.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:43:19.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:43:17.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:40:38.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Customers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:42:43.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\CustomerUser\\Views\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\CustomerUser\\Views\\Customers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:42:39.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\Cart\\Orders.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Cart\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\Cart\\Orders.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Cart\\Orders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T07:02:31.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\CustomerMember\\Register.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\CustomerMember\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\CustomerMember\\Register.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\CustomerMember\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:19:47.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\CustomerMember\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\CustomerMember\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\CustomerMember\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Views\\CustomerMember\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T06:00:19.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Program.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Program.cs",
+              "RelativeToolTip": "DevXuongMoc\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:23:57.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\appsettings.json",
+              "RelativeDocumentMoniker": "DevXuongMoc\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\appsettings.json",
+              "RelativeToolTip": "DevXuongMoc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T02:26:23.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AboutusController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Controllers\\AboutusController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\AboutusController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Controllers\\AboutusController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Controllers\\AboutusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:17:20.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "NewController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Controllers\\NewController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\NewController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Controllers\\NewController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Controllers\\NewController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:32:31.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:01:19.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:57:32.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T04:17:03.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:20:31.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T02:18:21.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "PartnerController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Controllers\\PartnerController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Controllers\\PartnerController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Controllers\\PartnerController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Controllers\\PartnerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:27:05.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\Customer.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:35:42.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T01:07:34.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Orderdetail.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\Orderdetail.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\Orderdetail.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\Orderdetail.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\Orderdetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:29:39.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\Order.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:29:44.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwCIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:11:31.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "font.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\font.css",
+              "RelativeDocumentMoniker": "DevXuongMoc\\wwwroot\\css\\font.css",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\font.css",
+              "RelativeToolTip": "DevXuongMoc\\wwwroot\\css\\font.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-17T09:20:35.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "DevXuongMoc\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-17T09:24:05.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DevXuongMoc\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DevXuongMoc\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-10T05:57:00.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "_Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Banners\\_Delete.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\Banners\\_Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Banners\\_Delete.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\Banners\\_Delete.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:36:32.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "_Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\_Details.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\_Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\_Details.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\_Details.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:34:00.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "_Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\_Edit.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\_Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\_Edit.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\_Edit.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:36:15.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\Product.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\Product.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:19:41.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "_Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\_Delete.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\_Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\_Delete.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\_Delete.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:36:09.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "BannersController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Controllers\\BannersController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Controllers\\BannersController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Controllers\\BannersController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Controllers\\BannersController.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAAwOUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T01:21:38.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\News.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\News.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\News.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\News.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:19:27.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\Material.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\Material.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\Material.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\Material.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:19:24.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\Category.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\Category.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:19:56.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\Banner.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\Banner.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\Banner.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\Banner.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:31:21.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "AdminUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\AdminUser.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\AdminUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\AdminUser.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\AdminUser.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:48:54.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "XuongMocContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\XuongMocContext.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\XuongMocContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\XuongMocContext.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\XuongMocContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:06:08.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\Details.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\Details.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\Details.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:13:39.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\LoginUser.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\LoginUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\LoginUser.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\LoginUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:49:28.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Slide.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\Slide.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\Slide.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\Slide.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\Slide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:46:15.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Models\\Contact.cs",
+              "RelativeToolTip": "DevXuongMoc\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:19:20.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "DevXuongMoc\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "DevXuongMoc\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-09T02:07:34.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "_Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Products\\_Create.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\Products\\_Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Products\\_Create.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\Products\\_Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:38:21.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "_Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Materials\\_Create.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\Materials\\_Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Materials\\_Create.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\Materials\\_Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:38:02.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "_Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Categories\\_Edit.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\Categories\\_Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Categories\\_Edit.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\Categories\\_Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:37:01.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "_Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Categories\\_Details.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\Categories\\_Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Categories\\_Details.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\Categories\\_Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:36:53.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "_Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Categories\\_Delete.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\Categories\\_Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Categories\\_Delete.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\Categories\\_Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:36:51.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "_Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Categories\\_Create.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\Categories\\_Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Categories\\_Create.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\Categories\\_Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:36:43.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "_Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Banners\\_Edit.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\Banners\\_Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Banners\\_Edit.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\Banners\\_Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:36:38.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "_Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Banners\\_Create.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\Banners\\_Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Banners\\_Create.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\Banners\\_Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:36:22.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "_Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Banners\\_Details.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\Banners\\_Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Banners\\_Details.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\Banners\\_Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:34:14.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "_Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\_Create.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\_Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\_Create.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\_Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:13:23.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:16:20.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "AdminUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Controllers\\AdminUsersController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Controllers\\AdminUsersController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Controllers\\AdminUsersController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Controllers\\AdminUsersController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T04:02:25.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\Edit.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\AdminUsers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:13:36.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Banners\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\Banners\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\Banners\\Index.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\Banners\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:10:22.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "MaterialsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Controllers\\MaterialsController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Controllers\\MaterialsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Controllers\\MaterialsController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Controllers\\MaterialsController.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAwNkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:58:37.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAAwAYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:43:44.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Models\\Login.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:49:17.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "adminlte.pages.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.pages.css",
+              "RelativeDocumentMoniker": "DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.pages.css",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.pages.css",
+              "RelativeToolTip": "DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.pages.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-13T01:06:03.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "adminlte.light.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.light.css",
+              "RelativeDocumentMoniker": "DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.light.css",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.light.css",
+              "RelativeToolTip": "DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.light.css",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-13T01:05:48.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "adminlte.core.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.core.css",
+              "RelativeDocumentMoniker": "DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.core.css",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.core.css",
+              "RelativeToolTip": "DevXuongMoc\\wwwroot\\dist\\css\\alt\\adminlte.core.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-13T01:05:36.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "adminlte.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\adminlte.css",
+              "RelativeDocumentMoniker": "DevXuongMoc\\wwwroot\\dist\\css\\adminlte.css",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\wwwroot\\dist\\css\\adminlte.css",
+              "RelativeToolTip": "DevXuongMoc\\wwwroot\\dist\\css\\adminlte.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-13T01:05:04.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T02:18:24.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "banner.html",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\banner.html",
+              "RelativeDocumentMoniker": "DevXuongMoc\\wwwroot\\images\\anhcat\\banner.html",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\wwwroot\\images\\anhcat\\banner.html",
+              "RelativeToolTip": "DevXuongMoc\\wwwroot\\images\\anhcat\\banner.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-10T02:20:17.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "DevXuongMoc\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\b\u00E1o c\u00E1o t\u1ED1t nghi\u1EC7p\\K21CNT1-Tr\u1EA7n Ng\u1ECDc B\u00EDch-2110900007-WebsiiteDevXuongMoc\\DevXuongMoc\\DevXuongMoc\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "DevXuongMoc\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:50:07.827Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
