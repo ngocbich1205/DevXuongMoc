@@ -1,0 +1,35 @@
+﻿@model IEnumerable<DevXuongMoc.Models.News>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="box-content all-news" style="margin-top:10rem;">
+   
+    <div class="box-news__content">
+
+        <h4>Tất cả tin tức</h4>
+           
+                <div class="row ">
+                        
+                      
+                    @foreach (var item in Model)
+                    {
+                        <div class="col-md-4 box-item">
+                            
+                                
+                                    <img src="@item.Image" alt="@item.Title">
+    
+                                    <a>
+                        <p>@item.Title</p>
+                    </a>
+                                 
+                               
+                        </div>
+                    }
+
+                </div>
+       
+    </div>
+</div>
+
