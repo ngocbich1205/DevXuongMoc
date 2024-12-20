@@ -1,0 +1,36 @@
+﻿@model IEnumerable<DevXuongMoc.Models.News>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/CustomerUser/Views/Shared/_Customer.cshtml";
+}
+
+<div class="box-content all-news">
+
+    <div class="box-news__content">
+
+        <h4 style="text-align:center;">Tất cả tin tức</h4>
+
+        <div class="row ">
+
+
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4 box-item">
+
+
+                    <img src="@item.Image" alt="@item.Title">
+
+
+
+                    <a href="/tin-tuc/trang-tri-phong-khach-cho-them-nang-dong">
+                        @item.Title
+                    </a>
+
+
+                </div>
+            }
+        </div>
+
+    </div>
+</div>
+

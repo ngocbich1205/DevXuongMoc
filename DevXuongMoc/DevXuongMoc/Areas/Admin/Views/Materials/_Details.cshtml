@@ -1,0 +1,143 @@
+﻿@model DevXuongMoc.Models.Material
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1 class="text-center my-2">Chi tiết</h1> <!-- "Details" translated to Vietnamese -->
+
+<div class="row">
+    
+        
+        <dl class="row">
+            <dt class="col-sm-6">
+                @Html.DisplayNameFor(model => model.Title)
+            </dt>
+            <dd class="col-sm-6">
+                @Html.DisplayFor(model => model.Title)
+            </dd>
+
+            <dt class="col-sm-6">
+                @Html.DisplayNameFor(model => model.Icon)
+            </dt>
+            <dd class="col-sm-6">
+                @Html.DisplayFor(model => model.Icon)
+                @*   <img src="@Model.Icon" alt="Icon" class="img-thumbnail" style="max-width: 150px; max-height: 150px;"> *@
+            </dd>
+
+            <dt class="col-sm-6">
+                @Html.DisplayNameFor(model => model.MetaTitle)
+            </dt>
+            <dd class="col-sm-6">
+                @Html.DisplayFor(model => model.MetaTitle)
+            </dd>
+
+            <dt class="col-sm-6">
+                @Html.DisplayNameFor(model => model.MetaKeyword)
+            </dt>
+            <dd class="col-sm-6">
+                @Html.DisplayFor(model => model.MetaKeyword)
+            </dd>
+
+            <dt class="col-sm-6">
+                @Html.DisplayNameFor(model => model.MetaDescription)
+            </dt>
+            <dd class="col-sm-6">
+                @Html.DisplayFor(model => model.MetaDescription)
+            </dd>
+
+            <dt class="col-sm-6">
+                @Html.DisplayNameFor(model => model.Slug)
+            </dt>
+            <dd class="col-sm-6">
+                @Html.DisplayFor(model => model.Slug)
+            </dd>
+
+            <dt class="col-sm-6">
+                @Html.DisplayNameFor(model => model.Orders)
+            </dt>
+            <dd class="col-sm-6">
+                @Html.DisplayFor(model => model.Orders)
+            </dd>
+
+            <dt class="col-sm-6">
+                @Html.DisplayNameFor(model => model.Parentid)
+            </dt>
+            <dd class="col-sm-6">
+                @Html.DisplayFor(model => model.Parentid)
+            </dd>
+
+            <dt class="col-sm-6">
+                @Html.DisplayNameFor(model => model.CreatedDate)
+            </dt>
+            <dd class="col-sm-6">
+                @Html.DisplayFor(model => model.CreatedDate)
+            </dd>
+
+            <dt class="col-sm-6">
+                @Html.DisplayNameFor(model => model.UpdatedDate)
+            </dt>
+            <dd class="col-sm-6">
+                @Html.DisplayFor(model => model.UpdatedDate)
+            </dd>
+
+            <dt class="col-sm-6">
+                @Html.DisplayNameFor(model => model.AdminCreated)
+            </dt>
+            <dd class="col-sm-6">
+                @Html.DisplayFor(model => model.AdminCreated)
+            </dd>
+
+            <dt class="col-sm-6">
+                @Html.DisplayNameFor(model => model.AdminUpdated)
+            </dt>
+            <dd class="col-sm-6">
+                @Html.DisplayFor(model => model.AdminUpdated)
+            </dd>
+
+            <dt class="col-sm-6">
+                @Html.DisplayNameFor(model => model.Notes)
+            </dt>
+            <dd class="col-sm-6">
+                @Html.DisplayFor(model => model.Notes)
+            </dd>
+
+            <dt class="col-sm-6">
+                @Html.DisplayNameFor(model => model.Status)
+            </dt>
+            <dd class="col-sm-6">
+                @Html.DisplayFor(model => model.StatusText)
+            </dd>
+
+            <dt class="col-sm-6">
+                @Html.DisplayNameFor(model => model.Isdelete)
+            </dt>
+            <dd class="col-sm-6">
+                @Html.DisplayFor(model => model.Isdelete)
+            </dd>
+        </dl>
+   
+</div>
+
+<div class="form-group text-center">
+    <button class="btn btn-primary ajax-action" data-url="@Url.Action("Edit", new { id = Model.Id })">Sửa</button>
+    <a asp-action="Index" class="btn btn-secondary">Quay lại danh sách</a> <!-- "Back to List" translated -->
+</div>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".ajax-action").click(function (e) {
+            e.preventDefault();
+
+            // Get the URL from the data attribute
+            var url = $(this).data("url");
+
+            // Load the content into the .click div
+            $(".click").load(url, function (response, status, xhr) {
+                if (status == "error") {
+                    alert("Error: " + xhr.status + " " + xhr.statusText);
+                }
+            });
+        });
+    });
+</script>
